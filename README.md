@@ -36,8 +36,12 @@ Traffic-Sign-Detection-YOLO/
 ├── best traffic.pt
 ├── Traffic Sign Detection.ipynb
 └── README.md # Project description
+└── Research paper publish ceritificate
 
 ##Output
+
+📜 [View Publication Certificate – Traffic Sign Detection (YOLO)](![traffic sign paper pulish certficate](https://github.com/user-attachments/assets/ee5d2b63-f184-44ca-a377-7676fdffe467)
+)
 
 ![WhatsApp Image 2025-06-07 at 20 25 00_7f21592a](https://github.com/user-attachments/assets/9d2fa420-349b-4267-b6d8-fa9b613137f3)
 ![WhatsApp Image 2025-06-07 at 20 25 00_b4279dc7](https://github.com/user-attachments/assets/26505e67-0c58-470f-b38a-0805a0da6c03)
